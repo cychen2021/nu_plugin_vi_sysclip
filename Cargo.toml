@@ -1,5 +1,5 @@
 [package]
-name = "nu_plugin_system_clipboard"
+name = "nu_plugin_vi_sysclip"
 version = "0.1.0"
 edition = "2024"
 authors = ["Chuyang Chen <chuyangchen2018@outlook.com>"]

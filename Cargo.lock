@@ -3,5 +3,5 @@
 version = 4
 
 [[package]]
-name = "nu_plugin_system_clipboard"
+name = "nu_plugin_vi_sysclip"
 version = "0.1.0"
