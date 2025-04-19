@@ -1,0 +1,8 @@
+[package]
+name = "nu_plugin_system_clipboard"
+version = "0.1.0"
+edition = "2024"
+authors = ["Chuyang Chen <chuyangchen2018@outlook.com>"]
+license-file = "LICENSE"
+
+[dependencies]
