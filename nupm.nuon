@@ -9,6 +9,6 @@
   "supported-os": {"arch": ["*"], "family": ["*"], "name": ["*"]},
   "url": "https://github.com/cychen2021/nusor",
   "scripts": [
-    "scripts/nusor.nu"
+    "scripts/vi_sysclip.nu"
   ]
 }
