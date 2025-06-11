@@ -6,3 +6,5 @@ authors = ["Chuyang Chen <chuyangchen2018@outlook.com>"]
 license-file = "LICENSE"
 
 [dependencies]
+nu-plugin = "0.105.1"
+nu-protocol = "0.105.1"
